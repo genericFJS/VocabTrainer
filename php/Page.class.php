@@ -85,7 +85,7 @@ class page {
 					break;
 				case 'task' :
 					$this->state = PageState::Task;
-					$this->setTitle ( 'Aufgabenbeschreibung' );
+					$this->setTitle ( 'Beschreibung' );
 					break;
 			}
 		}
@@ -232,7 +232,7 @@ class page {
 	
 	/**
 	 * Stellt die Setupseite dar.
-	 * Diese beinhaltet zum einen den Dateiupload als auch (für Aufgabenstellung optional) das runterladen und löschen von Dateien.
+	 * Diese beinhaltet zum einen den Dateiupload als auch (für Anforderungen optional) das runterladen und löschen von Dateien.
 	 */
 	private function printSetupPage() {
 		if ($_SERVER ['REQUEST_METHOD'] === 'POST') {
@@ -414,7 +414,7 @@ class page {
 	}
 	
 	/**
-	 * Stellt den Inhalt der Seite dar, auf der die Aufgabenstellung beschrieben ist (task.html).
+	 * Stellt den Inhalt der Seite dar, auf der die Anforderungen beschrieben sind (task.html).
 	 */
 	private function printTaskPage() {
 		readfile ( 'html/task.html' );

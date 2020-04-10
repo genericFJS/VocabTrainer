@@ -19,4 +19,4 @@ Hebräisch - Deutsch
 מאורע	[me'orA']	Fall	[fal]
 דגש	[dagEsch]	Punkt	[pʊŋkt]
 ממשלה	[memschalA]	Regierung	[ʀeˈɡiːʀʊŋ]
-אלוהים	['elohIm]	s74053	[ɡɔt]
+אלוהים	['elohIm]	Gott	[ɡɔt]

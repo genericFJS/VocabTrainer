@@ -19,4 +19,4 @@ Russisch - Deutsch
 падение	[pɐdʲˈenʲɪjə]	Fall	[fal]
 точка	[tˈot͡ɕkə]	Punkt	[pʊŋkt]
 правительство	[prɐvʲˈitʲɪlʲstvə]	Regierung	[ʀeˈɡiːʀʊŋ]
-бог	[bˈox]	s74053	[ɡɔt]
+бог	[bˈox]	Gott	[ɡɔt]
